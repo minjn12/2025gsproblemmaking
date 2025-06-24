@@ -3,6 +3,7 @@
 ## Folders
 #### images : 이미지
 #### testcases : 테스트케이스
+###### .info : info
 #### theme : 테마
 
 ## Files
